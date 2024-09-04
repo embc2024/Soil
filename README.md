@@ -3,8 +3,6 @@
 
 ![The-5-Components-of-Healthy-Soil-1024x682](https://user-images.githubusercontent.com/103903785/235441777-7f0856c5-a7e6-4fc8-96f5-0f4d70594c04.jpg)
 
-## Requirments
-[Requirments](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML---Soil-Quality/blob/main/Requirments.txt)
 
 ## Data
 ### Data Source
