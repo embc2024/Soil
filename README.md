@@ -3,6 +3,7 @@
 
 ![The-5-Components-of-Healthy-Soil-1024x682](https://user-images.githubusercontent.com/103903785/235441777-7f0856c5-a7e6-4fc8-96f5-0f4d70594c04.jpg)
 
+Preview of the system: https://soil-quality.streamlit.app/
 
 ## Data
 ### Data Source
